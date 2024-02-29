@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T07:38:30.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Xm4P_E6Xzj5Yqk-oCOOZ" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T07:50:58.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vrrd7OycsdJ1UJcHVLJM" version="23.1.8" type="github">
   <diagram name="Page-1" id="usQvjqCbf2z5VWUwjuGJ">
-    <mxGraphModel dx="2150" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
             <mxPoint x="550" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kKphP6OUzI673sK9Iiju-39" value="Manage Inventory" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kKphP6OUzI673sK9Iiju-39" value="Manage Books" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kKphP6OUzI673sK9Iiju-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kKphP6OUzI673sK9Iiju-39" target="kKphP6OUzI673sK9Iiju-19" edge="1">
